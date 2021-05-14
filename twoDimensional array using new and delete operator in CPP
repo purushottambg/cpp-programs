@@ -21,7 +21,7 @@ int main()
         {
           cout<<p[r][c]<<ends;
         }
-        cout<<"endl";
+        cout<<endl;
     }
-    
+    delete p;
 }
